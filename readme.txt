@@ -3,3 +3,4 @@ notepad
 modify
 blabla
 add
+Git tracks changes
